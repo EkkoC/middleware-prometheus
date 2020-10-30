@@ -2,9 +2,9 @@
 ## Install
 
 ``` bash
-yarn add ekko-express-prometheus
+yarn add ekko-middleware-prometheus
 # or
-npm i --save ekko-express-prometheus
+npm i --save ekko-middleware-prometheus
 ```
 
 ## Usage
