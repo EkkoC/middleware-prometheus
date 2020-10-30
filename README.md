@@ -58,7 +58,7 @@ app.listen(PORT, () => {
 The labels `route` and `status` are normalized:
 
 - `route`: will normalize id like route params
-- `status`: will normalize to status code family groups, like `2XX` or `4XX`.
+- `status`: will normalize to Status Code , like `200` or `404`.
 
 ### Example prometheus queries
 
